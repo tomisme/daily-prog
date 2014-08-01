@@ -1,4 +1,3 @@
 daily-prog
 ==========
-
-http://www.reddit.com/r/dailyprogrammer
+Here lie my solutions to the problems on [/r/dailyprogrammer](http://reddit.com/r/dailyprogrammer).
